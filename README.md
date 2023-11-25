@@ -1,9 +1,9 @@
-The Sales Forecasting Project aims to revolutionize business planning by leveraging predictive
-analytics on a five-year historical sales dataset. Employing a multifaceted approach, including Seasonal
-Naive and Linear Regression models, the project evaluates and compares their performance
-using metrics like MAE, RMSE, and MAPE. The linear regression model outperforms the seasonal
-naive model, showcasing superior accuracy in forecasting future sales. This study not only contributes
-insights into effective forecasting methodologies but also underscores the transformative
-potential of data-driven decision-making in navigating dynamic market landscapes. The findings
-affirm the project’s goal of enhancing operational efficiency and strategic planning for sustained
-business growth.
+Sales forecasting, drawing insights from historical sales data, serves multifaceted purposes, including
+enhancing accuracy, optimizing resource allocation, aiding in budgeting and financial planning, and
+refining inventory management.Here, we evaluated two models for forecasting sales: the seasonal
+naive model and the machine learning-driven linear regression model.
+In our analysis concludes that within choosen dataset, the linear regression model showcased superior
+performance over the traditional seasonal naive model. Its lower error rate signifies enhanced predictive
+capabilities, offering greater accuracy in anticipating future sales trends. Hence, the adoption of the
+linear regression model stands as a more reliable and effective approach for sales forecasting compared
+to the seasonal naive model.
